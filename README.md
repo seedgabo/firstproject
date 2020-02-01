@@ -1,4 +1,4 @@
 primer commit
 tercera
-
-Version Actual 1.1.0
+commit de ultima hora
+Version Actual 2.0.0
